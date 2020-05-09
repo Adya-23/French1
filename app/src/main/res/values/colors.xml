@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimaryDark">#000000</color>//right at top where battery, etc show
+    <color name="title_color">#FFFFFF</color>
+    <color name="btn_backgroundcolor_recyclerview">#FFFFFF</color>
+
+
+    //COLOR 1
+    <color name="colorPrimary">#536d00</color>// title background and tab color
+    <color name="btn_textcolor_recyclerview">#536d00</color>
+
+
+    //COLOR 2
+    <color name="backgroundcolor_recyclerview">#b8cc00</color> 
+
+
+
+    <color name="colorAccent">#039BE5</color>
+</resources>
